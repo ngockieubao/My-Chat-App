@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318979757077",
+    "project_id": "chatapp-9b721",
+    "storage_bucket": "chatapp-9b721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318979757077:android:1ddc20f702deebe6436a1c",
+        "android_client_info": {
+          "package_name": "com.ngockieubao.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318979757077-bi9jd26rcm3qmbk0r8bfolnlccj35n5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsuQPBlHJFntyUJ0Q9-UZQPIG0C8xYQCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318979757077-bi9jd26rcm3qmbk0r8bfolnlccj35n5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
